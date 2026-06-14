@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "startDate": "2026-06-13"
+  },
+  "daily": null,
+  "roadmap": {
+    "dsa": {
+      "checklist": {
+        "1": true,
+        "2": true,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false,
+        "7": true,
+        "8": true,
+        "9": false,
+        "10": false
+      }
+    }
+  },
+  "projects": null,
+  "interview": null,
+  "flashcards": null,
+  "notes": [
+    {
+      "id": "note_rm_dsa_1781395237756",
+      "topic": "This is the very first note",
+      "category": "Roadmap Notes",
+      "content": "Hello world",
+      "source": "roadmap",
+      "topicId": "dsa",
+      "roadmapTitle": "DSA & LeetCode",
+      "created": "2026-06-14T00:00:37.756Z",
+      "updated": "2026-06-14T00:00:37.756Z"
+    }
+  ],
+  "weekly": null
+}
